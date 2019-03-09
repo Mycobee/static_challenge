@@ -1,0 +1,76 @@
+header {
+    height: 100px;
+    background-color: red;
+    column-count: 2
+}
+
+body {
+    width: 2500px;
+}
+main {
+    color: white;
+    text-align: left;
+    padding-left: 25px;
+    font-size: 4rem;
+}
+
+.login {
+    text-align: right;
+    color: white;
+    text-decoration: underline;
+    padding-right: 25px;
+    
+}
+
+.link-container {
+    height: 75px;
+    text-align: right;
+    background-color: rgb(63, 62, 62);
+}
+
+
+
+a {
+    color: white;
+    font-size: .5rem;
+}
+
+section {
+    float: left;
+    margin: 0 1.5%;
+    width: 63%;
+}
+
+figcaption {
+    font-size: 4rem;
+    font-weight: 600
+}
+
+aside {
+    float: right;
+}
+
+.img2 {
+    display: block;
+}
+
+.img5 {
+    display: block;
+}
+
+.img6 {
+    display: block;
+}
+
+p {
+    width: 40%
+}
+
+footer {
+    clear: both; 
+    background-color: rgb(63, 62, 62);
+    color: white;
+    font-size: .25rem;
+}
+
+
